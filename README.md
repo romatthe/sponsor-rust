@@ -24,6 +24,7 @@ of someone to add, feel free to open a PR.
 * [Loïc Lecrenier (loiclec)](https://github.com/sponsors/loiclec)
 * [Tyler Neely (spacejam)](https://github.com/sponsors/spacejam)
 * [Diana (DianaNites)](https://github.com/sponsors/DianaNites)
+* [Carter Anderson (cart)](https://github.com/sponsors/cart)
 
 ## Organizations
 
