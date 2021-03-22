@@ -23,6 +23,7 @@ of someone to add, feel free to open a PR.
 * [varkor](https://github.com/sponsors/varkor)
 * [Loïc Lecrenier (loiclec)](https://github.com/sponsors/loiclec)
 * [Tyler Neely (spacejam)](https://github.com/sponsors/spacejam)
+* [Diana (DianaNites)](https://github.com/sponsors/DianaNites)
 
 ## Organizations
 
