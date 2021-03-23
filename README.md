@@ -25,6 +25,7 @@ of someone to add, feel free to open a PR.
 * [Tyler Neely (spacejam)](https://github.com/sponsors/spacejam)
 * [Diana (DianaNites)](https://github.com/sponsors/DianaNites)
 * [Carter Anderson (cart)](https://github.com/sponsors/cart)
+* [Lokathor (Lokathor)](https://github.com/sponsors/Lokathor)
 
 ## Organizations
 
